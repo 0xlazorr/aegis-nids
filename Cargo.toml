@@ -2,7 +2,7 @@
 name = "aegis-nids"
 version = "0.1.0"
 edition = "2021"
-authors = ["Lazarus Ebi <lazorronchain@gmail.com>"]
+authors = ["Lazarus Ebi <lazarusebi111@gmail.com>"]
 description = "High-Performance Network Intrusion Detection & DNS Covert Channel Analyzer in Rust"
 license = "MIT"
 
